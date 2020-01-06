@@ -1,7 +1,7 @@
 # ST-CLSTM
 Exploiting temporal consistency for real-time video depth estimation (ICCV 2019) https://arxiv.org/abs/1908.03706
 
-By Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan
+By Haokui Zhang, (Chunhua Shen)[https://cs.adelaide.edu.au/~chhshen/], Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan
 
 
 Some video results can be found at https://youtu.be/B705k8nunLU

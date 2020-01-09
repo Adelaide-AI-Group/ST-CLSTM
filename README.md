@@ -119,3 +119,13 @@ data_root
 |  |  |  |  |- depth_00001.png
 |  |  |  |  |- depth_00002.png
 |  |  |- ...
+
+Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows.
+
+@inproceedings{zhang2019exploiting,
+  title={Exploiting temporal consistency for real-time video depth estimation},
+  author={Zhang, Haokui and Shen, Chunhua and Li, Ying and Cao, Yuanzhouhan and Liu, Yu and Yan, Youliang},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1725--1734},
+  year={2019}
+}
